@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nicknijenhuis
 - 👀 I’m interested in coding, way of working, music, football (the european one)
 - 🌱 I’m currently learning NextJS and Strapi
-- 💞️ I’m collaborating on projects like Street Art Cities, Carnaval Radio, Maat IT and the Action Webshop
+- 💞️ I’m collaborating on projects like Street Art Cities, Carnaval Radio, Maat IT and the Action Website and Webshop
 - 📫 You can reach me via [my LinkedIN](https://www.linkedin.com/in/nicknijenhuis/)
 
 <!---
