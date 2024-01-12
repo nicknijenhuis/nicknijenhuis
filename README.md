@@ -9,9 +9,10 @@ nicknijenhuis/nicknijenhuis is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-Latest learning:
--Netlify
--Railway
--Strapi
--NextJS
--Vercel
+Previously learned:
+
+- Netlify
+- Railway
+- Strapi
+- NextJS
+- Vercel
